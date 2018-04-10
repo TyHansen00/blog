@@ -1,0 +1,35 @@
+---
+layout: post
+title: My Future
+date: 2018-04-09 22:39:20 +0300
+description: What my future looks like. # Add post description (optional)
+img: colbymiller.jpg # Add image post (optional)
+tags: [Holidays, Hawaii]
+---
+
+Unbelievably, my graduation from South Portland High School is fast approaching. Over the last 13 years of my life I've developed friendships that I will hold close to my heart forever. These next few months will be exciting, intimidating, emotional, and oh, so important for all of us who prepare to leave home. I have made a decision regarding what I will be doing this fall, and I am thrilled to share that I will be attending Colby College as a member of the Class of 2022.
+
+## Why Colby?
+
+Colby is a small, selective liberal arts college located in Waterville, Maine (1.5 hours away from home). They have an Engineering Dual-Degree program with Dartmouth and Columbia, which will allow me to graduate with a B.A in a concentration of my choice from Colby and an B.S or B.E in a chosen engineering discipline from one of the two partnered Ivy League institutions. Today I toured campus, and it is FREAKING BEAUTIFUL. Look at the pictures below!!!
+
+![Runnals]({{site.baseurl}}/assets/img/colbyrunnals.jpg)
+![Arey]({{site.baseurl}}/assets/img/colbyarey.JPG)
+![Davis]({{site.baseurl}}/assets/img/colbydavis.png)
+
+
+That bottom image is Davis Science Center. That is probably where most of my classes will be held, as that is the location of the computer science wing and the home to the math department. It's a gorgeous new facility. 
+
+The Colby students, alumni, and faculty have sold me on the school. They have all been incredibly nice and could wax poetic for hours about the College and their positive experiences there. Add that in to the fact that they have a new program called DavisConnects that provides funding for research, internships, and entrepenurial endeavors and Waterville becomes the perfect new home for the next few years. 
+
+![Internships]({{site.baseurl}}/assets/img/laptopwithnotes.png)
+
+> Speaking of internships, I am always on the hunt for opportunities to work and learn in tech. While it might seem ambitious, I hope to get some real experience working in software this year. I'm genuinely on a mission to change the world, and I'm eager and willing to put in the time to make that happen.
+
+## Thank you.
+
+I want to express my immense apprecation for the wonderful people that I have in my life. Nothing that I have accomplished or will achieve in the future would be possible without your neverending support. To my family and my friends -- I love you all more than anything. My journey is only just beginning and I can't wait for you to be a part of it. 
+
+Tyler <3
+
+![Cloud]({{site.baseurl}}/assets/img/cloud.jpg)
