@@ -4,7 +4,7 @@ title: My Future
 date: 2018-04-09 22:39:20 +0300
 description: What my future looks like. # Add post description (optional)
 img: colbymiller.jpg # Add image post (optional)
-tags: [Holidays, Hawaii]
+tags: [College, Life]
 ---
 
 Unbelievably, my graduation from South Portland High School is fast approaching. Over the last 13 years of my life I've developed friendships that I will hold close to my heart forever. These next few months will be exciting, intimidating, emotional, and oh, so important for all of us who prepare to leave home. I have made a decision regarding what I will be doing this fall, and I am thrilled to share that I will be attending Colby College as a member of the Class of 2022.
@@ -14,7 +14,9 @@ Unbelievably, my graduation from South Portland High School is fast approaching.
 Colby is a small, selective liberal arts college located in Waterville, Maine (1.5 hours away from home). They have an Engineering Dual-Degree program with Dartmouth and Columbia, which will allow me to graduate with a B.A in a concentration of my choice from Colby and an B.S or B.E in a chosen engineering discipline from one of the two partnered Ivy League institutions. Today I toured campus, and it is FREAKING BEAUTIFUL. Look at the pictures below!!!
 
 ![Runnals]({{site.baseurl}}/assets/img/colbyrunnals.jpg)
+---
 ![Arey]({{site.baseurl}}/assets/img/colbyarey.JPG)
+---
 ![Davis]({{site.baseurl}}/assets/img/colbydavis.png)
 
 
