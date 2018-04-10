@@ -14,13 +14,10 @@ Unbelievably, my graduation from South Portland High School is fast approaching.
 Colby is a small, selective liberal arts college located in Waterville, Maine (1.5 hours away from home). They have an Engineering Dual-Degree program with Dartmouth and Columbia, which will allow me to graduate with a B.A in a concentration of my choice from Colby and an B.S or B.E in a chosen engineering discipline from one of the two partnered Ivy League institutions. Today I toured campus, and it is FREAKING BEAUTIFUL. Look at the pictures below!!!
 
 ![Runnals]({{site.baseurl}}/assets/img/colbyrunnals.jpg)
----
+ 
 ![Arey]({{site.baseurl}}/assets/img/colbyarey.JPG)
----
----
+ 
 ![Davis]({{site.baseurl}}/assets/img/colbydavis.png)
----
-
 
 That bottom image is Davis Science Center. That is probably where most of my classes will be held, as that is the location of the computer science wing and the home to the math department. It's a gorgeous new facility. 
 
