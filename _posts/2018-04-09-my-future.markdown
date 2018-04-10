@@ -7,7 +7,7 @@ img: colbymiller.jpg # Add image post (optional)
 tags: [College, Life]
 ---
 
-Unbelievably, my graduation from South Portland High School is fast approaching. Over the last 13 years of my life I've developed friendships that I will hold close to my heart forever. These next few months will be exciting, intimidating, emotional, and oh, so important for all of us who prepare to leave home. I have made a decision regarding what I will be doing this fall, and I am thrilled to share that I will be attending Colby College as a member of the Class of 2022.
+Unbelievably, my graduation from South Portland High School is fast approaching. Over the last 13 years of my life I've developed friendships that I will hold close to my heart forever. These next few months will be exciting, intimidating, emotional, and oh-so important for all of us who prepare to leave home. I have made a decision regarding what I will be doing this fall, and I am thrilled to share that I will be attending Colby College as a member of the Class of 2022.
 
 ## Why Colby?
 
