@@ -1,0 +1,25 @@
+---
+layout: post
+title: This Blog
+date: 2010-10-29 22:39:20 +0300
+description: My plans for this space. # Add post description (optional)
+img: blogimg.jpg # Add image post (optional)
+tags: [Life]
+---
+
+Do you know when you jolt awake in the middle of the night, and realize/remember something that your subconscious has been working on? That happened to me the other night. At probably 3:45 AM, I realized that I have a blog!
+
+## What's the plan?
+
+I'm going to do my best to post on here weekly at a minimum. I doubt many folks are going to take the time to read my posts, but this is more for me than anyone else. I'm going through *a lot* right now, and I've read that the practice of keeping a journal or blog is pretty good for your mental health. Unfortunately, I don't have anything interesting to post today since I've only just decided to give this another try, so please enjoy this eyebleach and take a break from the news headlines: 
+
+![Kitten](https://i.redd.it/uta4h98ws9v31.jpg)
+ 
+![Doggos](https://i.redd.it/bwcuhcp2fru31.jpg)
+ 
+
+## That's all for now, folks.
+
+I hope everyone is having a good week has a fun-filled Halloween. I know mine will be -- differential equations and quantum phyiscs problem sets! REALLY spooky stuff. 
+
+Tyler
