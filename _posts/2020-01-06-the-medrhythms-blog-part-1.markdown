@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The MedRhythms Blog #1
+title: The MedRhythms Blog Part 1
 date: 2020-01-06 22:39:20 +0300
 description: An introduction to my JanPlan internship. # Add post description (optional)
 img: medrhythmslogo.jpg # Add image post (optional)
