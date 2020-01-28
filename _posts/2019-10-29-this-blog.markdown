@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Blog
-date: 2010-10-29 22:39:20 +0300
+date: 2019-10-29 22:39:20 +0300
 description: My plans for this space. # Add post description (optional)
 img: blogimg.jpg # Add image post (optional)
 tags: [Life]
